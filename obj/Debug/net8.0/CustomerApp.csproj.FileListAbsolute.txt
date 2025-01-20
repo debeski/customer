@@ -1,0 +1,14 @@
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.AssemblyInfoInputs.cache
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.AssemblyInfo.cs
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.csproj.CoreCompileInputs.cache
+D:\jenny\jamaica\CustomerApp\bin\Debug\net8.0\CustomerApp.exe
+D:\jenny\jamaica\CustomerApp\bin\Debug\net8.0\CustomerApp.deps.json
+D:\jenny\jamaica\CustomerApp\bin\Debug\net8.0\CustomerApp.runtimeconfig.json
+D:\jenny\jamaica\CustomerApp\bin\Debug\net8.0\CustomerApp.dll
+D:\jenny\jamaica\CustomerApp\bin\Debug\net8.0\CustomerApp.pdb
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.dll
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\refint\CustomerApp.dll
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.pdb
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\CustomerApp.genruntimeconfig.cache
+D:\jenny\jamaica\CustomerApp\obj\Debug\net8.0\ref\CustomerApp.dll
